@@ -20,6 +20,12 @@ Java programs as follows
 15 ) Switch_Example.java
 16 ) Try_catch.java
 17 ) ConstructorR.java
+********************************  oops  *************************************
+18 ) Encapulation_N.java
+19 ) Single_level_inhertence.java
+20 ) Multiple_inheritance.java
+21 ) Hierarchical_inheritance.java
+22 ) Hybrid_Inheritance
 
 
 

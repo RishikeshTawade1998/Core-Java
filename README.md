@@ -29,6 +29,8 @@ Java programs as follows
 23 ) Multiple.java
 25 ) Abstract_t.java
 26 ) RegeXJ.java
+27 ) Inner_class.java
+28 ) Interface_I.java
 
 
 

@@ -27,6 +27,8 @@ Java programs as follows
 21 ) Hierarchical_inheritance.java
 22 ) Hybrid_Inheritance
 23 ) Multiple.java
+25 ) Abstract_t.java
+26 ) RegeXJ.java
 
 
 

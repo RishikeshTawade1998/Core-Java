@@ -1,18 +1,20 @@
-class Method_recurrsion
+package practice;
+
+//   Method recurrsion : method call itself
+
+class B
 {
-	static int i=1;
-	public static void show()
+	public static void show(int i)
 	{
-		if(i<11)
+		System.out.println("show : "+i);
+		if(i>0)
 		{
-			System.out.println(i);
-			i++;
-			show();    //method calling itself
+			i--;
+			show(i);
 		}
 	}
-
 	public static void main(String[] args)
 	{
-		show();
+		show(5);
 	}
 }

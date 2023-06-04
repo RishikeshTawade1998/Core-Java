@@ -37,6 +37,8 @@ Java programs as follows
 32 ) Method_recurrsion.java
 33 ) Wrapper_Class.java
 34 ) strictfp.java
+35 ) Immutable_class.java
+36 ) String.java
 
 
 

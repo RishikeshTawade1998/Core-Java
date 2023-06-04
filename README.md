@@ -36,6 +36,7 @@ Java programs as follows
 31 ) Array.java
 32 ) Method_recurrsion.java
 33 ) Wrapper_Class.java
+34 ) strictfp.java
 
 
 

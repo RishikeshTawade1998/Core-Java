@@ -40,6 +40,8 @@ Java programs as follows
 35 ) Immutable_class.java
 36 ) String.java
 37 ) File_handling.java
+38 ) Enum.java
+39 ) of_copyOf.java
 
 
 
